@@ -18,14 +18,5 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows 8** | 2012 |introduzindo a interface "Metro" (ou Modern UI) com blocos dinâmicos e removendo o menu Iniciar tradicional. |Senha por Imagem: Uma curiosidade divertida era a possibilidade de desenhar círculos, toques ou linhas sobre uma foto para fazer o login, em vez de digitar uma senha. |
 | **Windows 10** | 2015 |  focado em versatilidade para desktops e dispositivos touch. | Reintroduziu o menu Iniciar convencional, combinando elementos do Windows 7 e 8, funcionando bem em diversas plataformas |
 | **Windows 11** | 2021 | Menu Iniciar centralizado e suporte a apps Android. | É a primeira versão que exige obrigatoriamente o chip de segurança TPM 2.0. |
-
-> **Nota:** Adicione todas as versões intermediárias (Windows 2.0, 98, ME, 2000, Vista, 7, 8, 10).
-
-## 🛠️ Como Contribuir
-1. Faça um Fork do projeto.
-2. Crie uma branch para sua versão: `git checkout -b feature/versao-faltante`.
-3. Commit suas mudanças: `git commit -m 'Adicionando Windows Vista'`.
-4. Push para a branch: `git push origin feature/versao-faltante`.
-
 ---
 Desenvolvido por [Nycolas Fernando Lima] - 2026.
